@@ -21,14 +21,18 @@ ___
 
 ### Milestones
 * Nov 16:
-    * TBD
-    <!-- * Extracted and cleaned data. -->
-    <!-- * Visualized processed data to determine the important features -->
+    * Extracted and cleaned data. 
+    * Visualized processed data to determine the important features
 
 * Nov 23: 
-    * TBD
+    * Collected el nino data
+    * Data preprocessing for el nino data. 
 
-* Nov 30:
+* Nov 25:
+    * Project report formulation
+    * Visualized disasters on world map
+
+* Dec 3:
     * TBD
 
 * Dec 7:
