@@ -32,14 +32,18 @@ ___
     * Project report formulation
     * Visualized disasters on world map
 
-* Dec 3:
-    * TBD
-
 * Dec 7:
-    * TBD
+    * Data mining   
+    * Visualizing the Correlating features
+    
+* Dec 10:
+    * Classification on atlantic dataset
+
+* Dec 13:
+    * Summarizing project
 
 * Dec 14:
-    * TBD
+    * Project video Recording
 
 * Dec 16:
     * Presentation 
